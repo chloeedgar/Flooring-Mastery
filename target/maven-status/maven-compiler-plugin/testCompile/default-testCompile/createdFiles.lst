@@ -1,0 +1,4 @@
+com\chloe\flooringmastery\dao\FlooringMasteryProductDaoFileImplTest.class
+com\chloe\flooringmastery\dao\FlooringMasteryOrderDaoFileImplTest.class
+com\chloe\flooringmastery\service\FlooringMasteryServiceLayerImplTest.class
+com\chloe\flooringmastery\dao\FlooringMasteryTaxDaoFileImplTest.class

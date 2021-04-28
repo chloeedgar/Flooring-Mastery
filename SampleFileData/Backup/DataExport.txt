@@ -1,0 +1,9 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total,Date
+5,Adam Black,TX,247.50,Laminate,100,515.00,475.00,175.00,210.00,17.13,402.13,03-29-2021
+1,Ada Lovelace,CA,25.00,Tile,249.00,3.50,4.15,871.50,1033.35,476.21,2381.06,06-01-2013
+6,Testing special**#,TX,34.04,Tile,100,350.00,415.00,350.00,415.00,34.04,799.04,03-30-2021
+9,Test,TX,66.08,Wood,150,772.50,712.50,772.50,712.50,66.08,1551.08,06-30-2021
+4,Chloe,Washington,36.32,Laminate,102,178.50,214.20,178.50,214.20,36.32,429.02,04-01-2021
+7,Testing, comma's,TX,68.09,Tile,200,700.00,830.00,700.00,830.00,68.09,1598.09,04-01-2021
+2,Doctor Who,WA,9.25,Wood,243.00,5.15,4.75,1251.45,1154.25,216.51,2622.21,06-02-2013
+3,Albert Einstein,Texas,6.00,Tile,200,2.25,2.10,700.00,830.00,68.09,1598.09,06-02-2013
